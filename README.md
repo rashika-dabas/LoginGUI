@@ -1,4 +1,6 @@
 # LoginGUI
+## Task:
+Design a GUI in Python utilizing Tkinter for user login.
 ## IDE: PyCharm
 ## Steps:
 * Create a PyCharm project with venv. (Python 3.9)
