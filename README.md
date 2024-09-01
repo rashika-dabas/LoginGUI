@@ -12,6 +12,6 @@ Design a GUI in Python utilizing Tkinter for user login.
 * To stop the app, use stop button for app.py or in terminal, click on cross at top and then Terminate.
 ## Notes:
 * Tkinter is the standard Python interface to the Tk GUI toolkit used to create a GUI.
-* Hashing for * (understanding all packages) sometimes don't map some packages.
-* Get method in PyCharm (not based on HTML) stores data as string format. (HTML supports all formats)
-* Pack will organise the stored label, entry or button widget on the main/parent screen.
+* Hashing for * (understanding all packages) sometimes doesn't map some packages.
+* The get method in PyCharm (not based on HTML) stores data in string format. (HTML supports all formats)
+* The pack method will organise the stored label, entry or button widget on the main/parent screen.
